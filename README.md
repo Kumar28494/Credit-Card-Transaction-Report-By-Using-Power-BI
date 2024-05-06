@@ -1,4 +1,6 @@
 # Credit-Card-Transaction-Report-By-Using-Power-BI
+![Screenshot (109)](https://github.com/Kumar28494/Credit-Card-Transaction-Report-By-Using-Power-BI/assets/145334281/8bcb97db-5cbe-4266-8f03-47cf0d1b4591)
+
 ## Guidance by Rishabh Mishra
 
 ## Introduction:
